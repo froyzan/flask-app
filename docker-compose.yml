@@ -1,0 +1,5 @@
+services:
+  test-app:
+    build: .
+    ports:
+      - "4321:4321"

@@ -1,7 +1,8 @@
 # Flask App
 Это простое Flask-приложение, которое выводит имя хоста и IP-адрес сервера.
 
-![Flask-app](flask-app.jpg) 
+![Flask-app](flask-app.jpg)
+ 
 `<link>`: <http://localhost:4321>
 
 ## Функционал

@@ -19,3 +19,8 @@
   docker build -t my-flask-app .
   docker run -p 4321:4321 my-flask-app
 ```
+
+## Установка и запуск приложения через Kubernetes используя образ из DockerHub
+```bash
+  kubectl apply -f k8s-flask-app.yml
+```
